@@ -16,10 +16,5 @@
         "psr-4": {
             "pixium\\widgets\\": "src"
         }
-    },
-    // "extra": {
-    //     "branch-alias": {
-    //         "dev-master": "1.4.x-dev"
-    //     }
-    // }
+    }
 }
