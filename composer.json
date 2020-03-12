@@ -1,0 +1,25 @@
+{
+    "name": "pixium/yii2-widget-add-to-calendar",
+    "description": "Add To Calendar dropdown",
+    "keywords": ["yii2", "calendar", "widget", "addevent", "google", "outlook", "yahoo"],
+    "homepage": "https://github.com/pixiumdigital/yii2-widget-add-to-calendar",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Remi Tache",
+            "email": "remitache@gmail.com",
+            "homepage": "http://pixiumdigital.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "pixium\\widgets\\": "src"
+        }
+    },
+    // "extra": {
+    //     "branch-alias": {
+    //         "dev-master": "1.4.x-dev"
+    //     }
+    // }
+}
