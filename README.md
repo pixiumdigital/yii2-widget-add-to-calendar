@@ -16,6 +16,13 @@ Add this repository to your composer.json file
     ],
 ```
 
+Add the package to the require list
+```
+"pixium/yii2-widget-add-to-calendar": "dev-master"
+```
+
+You are good to go !
+
 
 ### Use It
 
