@@ -1,30 +1,23 @@
 # Add To Calendar
 
-## Add to Composer
+## Installation
 
-Add this repository to your composer.json file
+The preferred way to install this extension is through [composer](https://getcomposer.org/download/)
 
 ```
-"repositories": [
-        {
-           ...
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/pixiumdigital/yii2-widget-add-to-calendar"
-        }
-    ],
+$ composer require pixium/yii2-widget-add-to-calendar:dev-master
 ```
 
-Add the package to the require list
+or add
+
 ```
 "pixium/yii2-widget-add-to-calendar": "dev-master"
 ```
 
-You are good to go !
+to the require section of your composer.json file.
 
 
-### Use It
+### Usage
 
 ```
 use pixium\widgets\AddToCalendar;
