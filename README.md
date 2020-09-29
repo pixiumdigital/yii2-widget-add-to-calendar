@@ -38,3 +38,8 @@ use pixium\widgets\AddToCalendar;
     ]); 
 ?>
 ```
+
+### License
+
+The BSD License (BSD). Please see [License File](LICENSE.md) for more information.
+[www.pixiumdigital.com](https://www.pixiumdigital.com)
