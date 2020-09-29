@@ -9,13 +9,13 @@
 The preferred way to install this extension is through [composer](https://getcomposer.org/download/)
 
 ```
-$ composer require pixiumdigital/yii2-widget-add-to-calendar:~1.0.1
+$ composer require pixium/yii2-widget-add-to-calendar:dev-master
 ```
 
 or add
 
 ```
-"pixiumdigital/yii2-widget-add-to-calendar": ">=1.0.1"
+"pixium/yii2-widget-add-to-calendar": "dev-master"
 ```
 
 to the require section of your composer.json file.

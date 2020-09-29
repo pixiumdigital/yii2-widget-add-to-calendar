@@ -1,5 +1,5 @@
 {
-    "name": "pixiumdigital/yii2-widget-add-to-calendar",
+    "name": "pixium/yii2-widget-add-to-calendar",
     "description": "Add To Calendar dropdown",
     "keywords": ["yii2", "calendar", "widget", "addevent", "google", "outlook", "yahoo"],
     "homepage": "https://github.com/pixiumdigital/yii2-widget-add-to-calendar",
